@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2016-11-03 19:29">
+  <shop>
+    <name>Брендовая обувь c доставкой по всему миру.</name>
+    <company>ИП Владимиров Роман Александрович</company>
+    <url>http://sneaker-icon.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="60">Обувь</category>
+      <category id="89" parentId="60">Мужская</category>
+      <category id="2929" parentId="60">Женская</category>
+      <category id="6157" parentId="60">Детская</category>
+    </categories>
+    <offers>
+      <offer id="20169" type="vendor.model" available="true" group_id="1">
+        <url>http://sneaker-icon.ru/product/krossovki-nike-wmns-air-huarache-run-ultra-hyper-turquoise-white-819151-300/?attribute_pa_razmer=36-5-eur-3-5-uk-6-us</url>
+        <vendorCode>819151-300-6</vendorCode>
+        <param name="Размер" unit="US">6</param>
+        <price>5243</price>
+        <oldprice>7490</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>2929</categoryId>
+        <market_category>Все товары/Одежда, обувь и аксессуары/Обувь/Женская обувь/Кроссовки и кеды</market_category>
+        <picture>http://sneaker-icon.ru/wp-content/uploads/2016/10/819151-300-1.jpg</picture>
+        <delivery>true</delivery>
+        <model>Wmns Air Huarache Run Ultra Hyper Turquoise / White 819151-300</model>
+        <typePrefix>Кроссовки</typePrefix>
+        <param name="Пол">Женский</param>
+        <param name="Возраст">Взрослый</param>
+        <vendor>Nike</vendor>
+        <sales_notes>Минимальная предоплата - 1000 рублей</sales_notes>
+        <description><![CDATA[Популярный силует женских кроссовок Nike Air Huarache в обновленном дизайне. Кроссовки разработал Тинкер Хэтфилд вдохновленный удобством неопреновых гидроносков для водных лыж и мексиканскими сандалиями гуарачи, первая модель вышла в свет в 1991 году. Помимо прекрасного внешнего вида они имеют они имеют потрясающая функционально-технологическую составляющую. Обувь изготовлена из сочетания пластика и текстиля высочайшего качества. Плетеный носок со сверхпрочными нитями Fywire, эластичный ремешок в области пятки и фиксирующая пластикова вставка плотно обволакивают ногу. Подошва со знаменитой технологией Air с рельефной ударопоглащающей прослойкой Phylon для обеспечения амортизации с сцепления с поверхностью.<br><br>— Сочетание текстиля и пластика высочайшего качества<br>— Плетёный носок<br>— Фиксирующая ногу пластиковая вставка с эластичным ремешком в задней части<br>— Технология поддержки стопы Flywire<br>— Ударопоглощающая прослойка Phylon<br>— Технология амортизации Air<br>— Обновлённый силуэт<br>]]></description>
+      </offer>
+      <offer id="20170" type="vendor.model" available="true" group_id="1">
+        <url>http://sneaker-icon.ru/product/krossovki-nike-wmns-air-huarache-run-ultra-hyper-turquoise-white-819151-300/?attribute_pa_razmer=37-5-eur-4-uk-6-5-us</url>
+        <price>5243</price>
+        <oldprice>7490</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>2929</categoryId>
+        <market_category>Все товары/Одежда, обувь и аксессуары/Обувь/Женская обувь/Кроссовки и кеды</market_category>
+        <picture>http://sneaker-icon.ru/wp-content/uploads/2016/10/819151-300-1.jpg</picture>
+        <delivery>true</delivery>
+        <model>Wmns Air Huarache Run Ultra Hyper Turquoise / White 819151-300</model>
+        <typePrefix>Кроссовки</typePrefix>
+        <param name="Пол">Женский</param>
+        <param name="Возраст">Взрослый</param>
+        <vendorCode>819151-300-6.5</vendorCode>
+        <param name="Размер" unit="US">6.5</param>
+        <vendor>Nike</vendor>
+        <sales_notes>Минимальная предоплата - 1000 рублей</sales_notes>
+        <description><![CDATA[Популярный силует женских кроссовок Nike Air Huarache в обновленном дизайне. Кроссовки разработал Тинкер Хэтфилд вдохновленный удобством неопреновых гидроносков для водных лыж и мексиканскими сандалиями гуарачи, первая модель вышла в свет в 1991 году. Помимо прекрасного внешнего вида они имеют они имеют потрясающая функционально-технологическую составляющую. Обувь изготовлена из сочетания пластика и текстиля высочайшего качества. Плетеный носок со сверхпрочными нитями Fywire, эластичный ремешок в области пятки и фиксирующая пластикова вставка плотно обволакивают ногу. Подошва со знаменитой технологией Air с рельефной ударопоглащающей прослойкой Phylon для обеспечения амортизации с сцепления с поверхностью.<br><br>— Сочетание текстиля и пластика высочайшего качества<br>— Плетёный носок<br>— Фиксирующая ногу пластиковая вставка с эластичным ремешком в задней части<br>— Технология поддержки стопы Flywire<br>— Ударопоглощающая прослойка Phylon<br>— Технология амортизации Air<br>— Обновлённый силуэт<br>]]></description>
+      </offer>
+      <offer id="20171" type="vendor.model" available="true" group_id="1">
+        <url>http://sneaker-icon.ru/product/krossovki-nike-wmns-air-huarache-run-ultra-hyper-turquoise-white-819151-300/?attribute_pa_razmer=38-eur-4-5-uk-7-us</url>
+        <price>5243</price>
+        <oldprice>7490</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>2929</categoryId>
+        <market_category>Все товары/Одежда, обувь и аксессуары/Обувь/Женская обувь/Кроссовки и кеды</market_category>
+        <picture>http://sneaker-icon.ru/wp-content/uploads/2016/10/819151-300-1.jpg</picture>
+        <delivery>true</delivery>
+        <model>Wmns Air Huarache Run Ultra Hyper Turquoise / White 819151-300</model>
+        <typePrefix>Кроссовки</typePrefix>
+        <param name="Пол">Женский</param>
+        <param name="Возраст">Взрослый</param>
+        <vendorCode>819151-300-7</vendorCode>
+        <param name="Размер" unit="US">7</param>
+        <vendor>Nike</vendor>
+        <sales_notes>Минимальная предоплата - 1000 рублей</sales_notes>
+        <description><![CDATA[Популярный силует женских кроссовок Nike Air Huarache в обновленном дизайне. Кроссовки разработал Тинкер Хэтфилд вдохновленный удобством неопреновых гидроносков для водных лыж и мексиканскими сандалиями гуарачи, первая модель вышла в свет в 1991 году. Помимо прекрасного внешнего вида они имеют они имеют потрясающая функционально-технологическую составляющую. Обувь изготовлена из сочетания пластика и текстиля высочайшего качества. Плетеный носок со сверхпрочными нитями Fywire, эластичный ремешок в области пятки и фиксирующая пластикова вставка плотно обволакивают ногу. Подошва со знаменитой технологией Air с рельефной ударопоглащающей прослойкой Phylon для обеспечения амортизации с сцепления с поверхностью.<br><br>— Сочетание текстиля и пластика высочайшего качества<br>— Плетёный носок<br>— Фиксирующая ногу пластиковая вставка с эластичным ремешком в задней части<br>— Технология поддержки стопы Flywire<br>— Ударопоглощающая прослойка Phylon<br>— Технология амортизации Air<br>— Обновлённый силуэт<br>]]></description>
+      </offer>
+      <offer id="24178" type="vendor.model" available="true" group_id="1">
+        <url>http://sneaker-icon.ru/product/krossovki-nike-wmns-air-huarache-run-ultra-hyper-turquoise-white-819151-300/?attribute_pa_razmer=38-5-eur-5-uk-7-5-us</url>
+        <price>5243</price>
+        <oldprice>7490</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>2929</categoryId>
+        <market_category>Все товары/Одежда, обувь и аксессуары/Обувь/Женская обувь/Кроссовки и кеды</market_category>
+        <picture>http://sneaker-icon.ru/wp-content/uploads/2016/10/819151-300-1.jpg</picture>
+        <delivery>true</delivery>
+        <model>Wmns Air Huarache Run Ultra Hyper Turquoise / White 819151-300</model>
+        <typePrefix>Кроссовки</typePrefix>
+        <param name="Пол">Женский</param>
+        <param name="Возраст">Взрослый</param>
+        <vendorCode>819151-300-7.5</vendorCode>
+        <param name="Размер" unit="US">7.5</param>
+        <vendor>Nike</vendor>
+        <sales_notes>Минимальная предоплата - 1000 рублей</sales_notes>
+        <description><![CDATA[Популярный силует женских кроссовок Nike Air Huarache в обновленном дизайне. Кроссовки разработал Тинкер Хэтфилд вдохновленный удобством неопреновых гидроносков для водных лыж и мексиканскими сандалиями гуарачи, первая модель вышла в свет в 1991 году. Помимо прекрасного внешнего вида они имеют они имеют потрясающая функционально-технологическую составляющую. Обувь изготовлена из сочетания пластика и текстиля высочайшего качества. Плетеный носок со сверхпрочными нитями Fywire, эластичный ремешок в области пятки и фиксирующая пластикова вставка плотно обволакивают ногу. Подошва со знаменитой технологией Air с рельефной ударопоглащающей прослойкой Phylon для обеспечения амортизации с сцепления с поверхностью.<br><br>— Сочетание текстиля и пластика высочайшего качества<br>— Плетёный носок<br>— Фиксирующая ногу пластиковая вставка с эластичным ремешком в задней части<br>— Технология поддержки стопы Flywire<br>— Ударопоглощающая прослойка Phylon<br>— Технология амортизации Air<br>— Обновлённый силуэт<br>]]></description>
+      </offer>
+      <offer id="24177" type="vendor.model" available="true" group_id="1">
+        <url>http://sneaker-icon.ru/product/krossovki-nike-wmns-air-huarache-run-ultra-hyper-turquoise-white-819151-300/?attribute_pa_razmer=39-eur-5-5-uk-8-us</url>
+        <price>5243</price>
+        <oldprice>7490</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>2929</categoryId>
+        <market_category>Все товары/Одежда, обувь и аксессуары/Обувь/Женская обувь/Кроссовки и кеды</market_category>
+        <picture>http://sneaker-icon.ru/wp-content/uploads/2016/10/819151-300-1.jpg</picture>
+        <delivery>true</delivery>
+        <model>Wmns Air Huarache Run Ultra Hyper Turquoise / White 819151-300</model>
+        <typePrefix>Кроссовки</typePrefix>
+        <param name="Пол">Женский</param>
+        <param name="Возраст">Взрослый</param>
+        <vendorCode>819151-300-8</vendorCode>
+        <param name="Размер" unit="US">8</param>
+        <vendor>Nike</vendor>
+        <sales_notes>Минимальная предоплата - 1000 рублей</sales_notes>
+        <description><![CDATA[Популярный силует женских кроссовок Nike Air Huarache в обновленном дизайне. Кроссовки разработал Тинкер Хэтфилд вдохновленный удобством неопреновых гидроносков для водных лыж и мексиканскими сандалиями гуарачи, первая модель вышла в свет в 1991 году. Помимо прекрасного внешнего вида они имеют они имеют потрясающая функционально-технологическую составляющую. Обувь изготовлена из сочетания пластика и текстиля высочайшего качества. Плетеный носок со сверхпрочными нитями Fywire, эластичный ремешок в области пятки и фиксирующая пластикова вставка плотно обволакивают ногу. Подошва со знаменитой технологией Air с рельефной ударопоглащающей прослойкой Phylon для обеспечения амортизации с сцепления с поверхностью.<br><br>— Сочетание текстиля и пластика высочайшего качества<br>— Плетёный носок<br>— Фиксирующая ногу пластиковая вставка с эластичным ремешком в задней части<br>— Технология поддержки стопы Flywire<br>— Ударопоглощающая прослойка Phylon<br>— Технология амортизации Air<br>— Обновлённый силуэт<br>]]></description>
+      </offer>
+      <offer id="24176" type="vendor.model" available="true" group_id="1">
+        <url>http://sneaker-icon.ru/product/krossovki-nike-wmns-air-huarache-run-ultra-hyper-turquoise-white-819151-300/?attribute_pa_razmer=40-eur-6-uk-8-5-us</url>
+        <price>5243</price>
+        <oldprice>7490</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>2929</categoryId>
+        <market_category>Все товары/Одежда, обувь и аксессуары/Обувь/Женская обувь/Кроссовки и кеды</market_category>
+        <picture>http://sneaker-icon.ru/wp-content/uploads/2016/10/819151-300-1.jpg</picture>
+        <delivery>true</delivery>
+        <model>Wmns Air Huarache Run Ultra Hyper Turquoise / White 819151-300</model>
+        <typePrefix>Кроссовки</typePrefix>
+        <param name="Пол">Женский</param>
+        <param name="Возраст">Взрослый</param>
+        <vendorCode>819151-300-8.5</vendorCode>
+        <param name="Размер" unit="US">8.5</param>
+        <vendor>Nike</vendor>
+        <sales_notes>Минимальная предоплата - 1000 рублей</sales_notes>
+        <description><![CDATA[Популярный силует женских кроссовок Nike Air Huarache в обновленном дизайне. Кроссовки разработал Тинкер Хэтфилд вдохновленный удобством неопреновых гидроносков для водных лыж и мексиканскими сандалиями гуарачи, первая модель вышла в свет в 1991 году. Помимо прекрасного внешнего вида они имеют они имеют потрясающая функционально-технологическую составляющую. Обувь изготовлена из сочетания пластика и текстиля высочайшего качества. Плетеный носок со сверхпрочными нитями Fywire, эластичный ремешок в области пятки и фиксирующая пластикова вставка плотно обволакивают ногу. Подошва со знаменитой технологией Air с рельефной ударопоглащающей прослойкой Phylon для обеспечения амортизации с сцепления с поверхностью.<br><br>— Сочетание текстиля и пластика высочайшего качества<br>— Плетёный носок<br>— Фиксирующая ногу пластиковая вставка с эластичным ремешком в задней части<br>— Технология поддержки стопы Flywire<br>— Ударопоглощающая прослойка Phylon<br>— Технология амортизации Air<br>— Обновлённый силуэт<br>]]></description>
+      </offer>
+      <offer id="20173" type="vendor.model" available="true" group_id="1">
+        <url>http://sneaker-icon.ru/product/krossovki-nike-wmns-air-huarache-run-ultra-hyper-turquoise-white-819151-300/?attribute_pa_razmer=41-eur-7-uk-9-5-us</url>
+        <price>5243</price>
+        <oldprice>7490</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>2929</categoryId>
+        <market_category>Все товары/Одежда, обувь и аксессуары/Обувь/Женская обувь/Кроссовки и кеды</market_category>
+        <picture>http://sneaker-icon.ru/wp-content/uploads/2016/10/819151-300-1.jpg</picture>
+        <delivery>true</delivery>
+        <model>Wmns Air Huarache Run Ultra Hyper Turquoise / White 819151-300</model>
+        <typePrefix>Кроссовки</typePrefix>
+        <param name="Пол">Женский</param>
+        <param name="Возраст">Взрослый</param>
+        <vendorCode>819151-300-9.5</vendorCode>
+        <param name="Размер" unit="US">9.5</param>
+        <vendor>Nike</vendor>
+        <sales_notes>Минимальная предоплата - 1000 рублей</sales_notes>
+        <description><![CDATA[Популярный силует женских кроссовок Nike Air Huarache в обновленном дизайне. Кроссовки разработал Тинкер Хэтфилд вдохновленный удобством неопреновых гидроносков для водных лыж и мексиканскими сандалиями гуарачи, первая модель вышла в свет в 1991 году. Помимо прекрасного внешнего вида они имеют они имеют потрясающая функционально-технологическую составляющую. Обувь изготовлена из сочетания пластика и текстиля высочайшего качества. Плетеный носок со сверхпрочными нитями Fywire, эластичный ремешок в области пятки и фиксирующая пластикова вставка плотно обволакивают ногу. Подошва со знаменитой технологией Air с рельефной ударопоглащающей прослойкой Phylon для обеспечения амортизации с сцепления с поверхностью.<br><br>— Сочетание текстиля и пластика высочайшего качества<br>— Плетёный носок<br>— Фиксирующая ногу пластиковая вставка с эластичным ремешком в задней части<br>— Технология поддержки стопы Flywire<br>— Ударопоглощающая прослойка Phylon<br>— Технология амортизации Air<br>— Обновлённый силуэт<br>]]></description>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>

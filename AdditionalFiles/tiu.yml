@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2017-01-30 10:00">
+  <shop>
+    <name>Брендовая обувь c доставкой по всему миру.</name>
+    <company>ИП Владимиров Роман Александрович</company>
+    <url>http://sneaker-icon.ru</url>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="89">Мужская обувь</category>
+      <category id="2929">Женская обувь</category>
+      <category id="6157">Детская обувь</category>
+    </categories>
+    <offers>
+    </offers>
+  </shop>
+</yml_catalog>

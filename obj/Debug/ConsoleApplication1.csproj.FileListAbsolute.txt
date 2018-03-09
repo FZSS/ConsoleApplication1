@@ -1,0 +1,9 @@
+C:\Work\Work\Debug\AdditionalFiles\tiu.yml
+C:\Work\Work\Debug\AdditionalFiles\yml.yml
+C:\Work\Work\Debug\NLog.config
+C:\Work\Work\Debug\SneakerIcon.exe.config
+C:\Work\Work\Debug\SneakerIcon.exe
+C:\Work\Work\Debug\SneakerIcon.pdb
+C:\Work\SneakerIconRep\SneakerIcon\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Work\SneakerIconRep\SneakerIcon\ConsoleApplication1\obj\Debug\SneakerIcon.exe
+C:\Work\SneakerIconRep\SneakerIcon\ConsoleApplication1\obj\Debug\SneakerIcon.pdb
